@@ -1,0 +1,95 @@
+[
+    {
+        "marque": "TOYOTA",
+        "model": "Yaris B",
+        "typeCarburant": { "label": "HYBRIDE", "value": "hybride" },
+        "transmission": { "label": "AUTOMATIC", "value": "automatic" },
+        "description": "uy47t5rg8yhgtuif4huig",
+        "couleur": "Blue",
+        "nombrePlace": 1,
+        "kilometrage": { "label": "LIMITED", "value": "limited" },
+        "status": "petite",
+        "id": "OBA7924Z",
+        "matricule": "TP5GKHCV",
+        "image": "vehicule-placeholder.svg"
+    },
+    {
+        "matricule": "AE73729",
+        "model": "Modèle du véhicule2",
+        "marque": "Marque du véhicule1",
+        "couleur": "Creen",
+        "nombrePlace": 6,
+        "transmission": "Automatique",
+        "categoryVehicule": "Moyenne",
+        "kilometrage": "Illimité",
+        "typeCarburant": "Escence",
+        "description": "Description du véhicule1",
+        "status": "Non reserver"
+    },
+    {
+        "marque": "TOYOTA",
+        "model": "Yaris B",
+        "transmission": "automatic",
+        "typeCarburant": "electrique",
+        "description": "2",
+        "nombrePlace": 2,
+        "categoryVehicule": "petite",
+        "kilometrage": "limited",
+        "status": "non reserved",
+        "couleur": "Blue",
+        "matricule": "0NA2CJB2",
+        "image": ["uploads/GCZIlsyHoELd0GZy0uXDmL6CoFdslcur9bzs0Pp5.png"]
+    },
+
+    {
+        "marque": "TOYOTA",
+        "model": "Yaris B",
+        "transmission": "automatic",
+        "typeCarburant": "electric",
+        "description": "bghjk",
+        "nombrePlace": 2,
+        "categoryVehicule": "petite",
+        "kilometrage": "limited",
+        "status": "non reserved",
+        "couleur": "Blue",
+        "matricule": "KQ4N7NGZ",
+        "image": { "paths": "uploads/fJM9rf9X0cD4Puikoi84YCxQi71fjFjmHEKZnSi5.png", "updated_at": "2023-06-13T00:35:44.000000Z", "created_at": "2023-06-13T00:35:44.000000Z", "id": 15 }
+    },
+    {
+        "marque": "Audi",
+        "model": "Version4",
+        "transmission": "manual",
+        "nombrePlace": 5,
+        "typeCarburant": "essence",
+        "categoryVehicule": "petite",
+        "kilometrage": "unlimited",
+        "status": "reserved",
+        "couleur": "Blue",
+        "matricule": "5GUSZW3G",
+        "images_id": 21
+    },
+    {
+        "id": 1,
+        "matricule": "Q0YLLOU2",
+        "model": "Yaris B",
+        "marque": "TOYOTA",
+        "couleur": "Rouge",
+        "nombrePlace": 9,
+        "transmission": "automatic",
+        "categoryVehicule": "medium",
+        "kilometrage": "limited",
+        "typeCarburant": "hybrid",
+        "description": "qwertyuiop[]",
+        "images_id": 1,
+        "status": "non reserved",
+        "created_at": "2023-06-15T13:31:08.000000Z",
+        "updated_at": "2023-06-15T13:31:08.000000Z",
+        "images": [
+            {
+                "paths": "uploads/OFBG7HBByX5HU1fP5qFkhuEivQ0yqiG4M0DEEeQl.jpg,uploads/dcRQ6IPCIlAUvq7JdFFow0L8HyyYTmeR9nhi3K3b.jpg",
+                "pivot": { "vehicules_id": 1, "images_id": 1 },
+                "imageUrl": "blob:http://localhost:5173/da30f620-88f8-440b-8c94-5bd9ba53de35"
+            }
+        ]
+    }
+]
